@@ -1,6 +1,6 @@
 <img src="./Flotix Browser.png" align="left" width="200"/>
 
-### `Zen Browser`
+### `Flotix Browser`
 
 Experience tranquility while browsing the internet with Zen! Our mission is to give you a perfect balance for speed, privacy and productivity
 
