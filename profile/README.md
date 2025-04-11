@@ -1,4 +1,4 @@
-<img src="./logo-black.png" align="left" width="200"/>
+<img src="./Flotix Browser.png" align="left" width="200"/>
 
 ### `Zen Browser`
 
