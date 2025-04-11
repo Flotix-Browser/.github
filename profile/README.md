@@ -2,7 +2,7 @@
 
 ### `Flotix Browser`
 
-Experience tranquility while browsing the internet with Zen! Our mission is to give you a perfect balance for speed, privacy and productivity
+Flotix lets you browse without boundaries — fast, private, and built for your productivity.
 
 <a href="https://docs.zen-browser.app/contribute/translation">Contribute</a> ·
 <a href="https://www.zen-browser.app">Website</a> ·
