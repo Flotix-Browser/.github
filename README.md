@@ -2,4 +2,4 @@
 
 For Flotix Browser GitHub Home Page
 
-© All rights reserved. Made with 💜 by the Flotix Team
+© All rights reserved. Made with <img src="./Flotix.svg"/> by the Flotix Team
